@@ -19,10 +19,7 @@ public class Client
       tree.insert(7);
       tree.insert(53);
       tree.insert(4);
-      tree.insert(13);
-      tree.insert(12);
-      tree.insert(8);
-      
+
       //Basic AVL Tree print functions that prints the contents of the AVL tree
       tree.print();
       
